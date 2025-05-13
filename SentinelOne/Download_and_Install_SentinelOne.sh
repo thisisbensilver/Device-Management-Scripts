@@ -11,6 +11,7 @@
 #   Why might you need this?
 #   Your SentinelOne Token needs to be in the same directory
 #   as the installer, and not all MDM solutions let you do that.
+#   I'm looking at you, MaaS360!
 #
 #   So this lets you install SentinelOne via script instead-
 #   Quick and dirty!
